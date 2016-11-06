@@ -1,0 +1,22 @@
+/* Pon tu código css aqui */
+.box4{
+border:1px solid black;
+width: 50%;
+height: 300px;
+}
+
+.box1,.box2,.box3{
+    width:25%;
+    height:100px;
+}
+
+ .box1{
+ 	background-color:yellow;
+ }
+ .box2{
+ 	background-color:#1864F1;
+ }
+ .box3{
+ 	background-color:#E51B52;
+ }
+ 
